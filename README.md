@@ -24,4 +24,4 @@ in 4 countries — scheduling, payroll, contracts, and timezone systems.
 **Full-Stack:** React · Next.js · Node.js · TypeScript · PostgreSQL · MongoDB
 
 📍 Pakistan · UTC+5 · Open to Remote
-📬 [LinkedIn](https://linkedin.com/in/hasnain-asif) · hasnainasif52@gmail.com
+📬 [LinkedIn](https://linkedin.com/in/hasnain-asif) · [Portfolio](https://hasnainasif.vercel.app/) · hasnainasif52@gmail.com
